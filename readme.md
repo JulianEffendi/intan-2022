@@ -8,6 +8,12 @@ A really simple and elegant looking birthday counter And Wishing When Click the 
 git clone https://github.com/JulianEffendi/my-happy-birthday.git
 ```
 
+#### Demo
+
+```sh
+https://julianeffendi.github.io/intan-2022/
+```
+
 &nbsp;
 
 #### usage
