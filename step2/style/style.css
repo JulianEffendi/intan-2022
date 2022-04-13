@@ -5,6 +5,7 @@ html {
 body {
   font-family: "Work Sans", sans-serif;
   margin: 0;
+  background: #FCBCD7;
 }
 
 .container {
@@ -130,6 +131,7 @@ body {
 .six .hat {
   left: 41.5%;
   position: absolute;
+  margin-left: 43px;
   /* transform: scale(0.1); */
   top: -35%;
   width: 80px;
@@ -282,6 +284,10 @@ body {
 
   .idea-6 span {
     font-size: 10rem;
+  }
+
+  .idea-13 span {
+    font-size: 9rem;
   }
 
   .six .hat {
