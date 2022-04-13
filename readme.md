@@ -14,8 +14,6 @@ git clone https://github.com/JulianEffendi/my-happy-birthday.git
 https://julianeffendi.github.io/intan-2022/
 ```
 
-&nbsp;
-
 #### usage
 
 Edit config object in `scripts/index.js`
