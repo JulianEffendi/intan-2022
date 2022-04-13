@@ -130,6 +130,8 @@ const animationTimeline = () => {
     .to(".idea-3", 0.7, ideaTextTransLeave, "+=1.5")
     .from(".idea-4", 0.7, ideaTextTrans)
     .to(".idea-4", 0.7, ideaTextTransLeave, "+=1.5")
+    
+    // Ini yang Emot Senyum miring ke lurus
     .from(
       ".idea-5",
       0.7, {
@@ -158,8 +160,23 @@ const animationTimeline = () => {
       },
       "+=2"
     )
+    .from(".idea-6", 0.7, ideaTextTrans)
+    .to(".idea-6", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-7", 0.7, ideaTextTrans)
+    .to(".idea-7", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-8", 0.7, ideaTextTrans)
+    .to(".idea-8", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-9", 0.7, ideaTextTrans)
+    .to(".idea-9", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-10", 0.7, ideaTextTrans)
+    .to(".idea-10", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-11", 0.7, ideaTextTrans)
+    .to(".idea-11", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-12", 0.7, ideaTextTrans)
+    .to(".idea-12", 0.7, ideaTextTransLeave, "+=1.5")
+    // Yang ini S-O
     .staggerFrom(
-      ".idea-6 span",
+      ".idea-13 span",
       0.8, {
         scale: 3,
         opacity: 0,
@@ -169,7 +186,7 @@ const animationTimeline = () => {
       0.2
     )
     .staggerTo(
-      ".idea-6 span",
+      ".idea-13 span",
       0.8, {
         scale: 3,
         opacity: 0,
