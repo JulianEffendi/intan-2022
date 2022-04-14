@@ -5,8 +5,7 @@ const canvasC = document.getElementById('c');
 const btn = document.getElementById('mbtn');
 
 const config = {
-  // birthdate: 'APR 17, 2022',
-  birthdate: 'MAR 8, 2022',
+  birthdate: 'APR 17, 2022',
   name: 'INTAN'
 };
 
